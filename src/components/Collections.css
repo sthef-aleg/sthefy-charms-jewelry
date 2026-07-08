@@ -1,0 +1,39 @@
+.collections{
+
+    padding:120px 8%;
+
+    background:white;
+
+    text-align:center;
+
+}
+
+.collections h2{
+
+    font-size:56px;
+
+    color:var(--primary);
+
+    font-family:"Cormorant Garamond", serif;
+
+}
+
+.collections>p{
+
+    max-width:650px;
+
+    margin:20px auto 70px;
+
+    color:#666;
+
+}
+
+.collections-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(2,1fr);
+
+    gap:40px;
+
+}
