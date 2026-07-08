@@ -2,7 +2,7 @@ import "./Collections.css";
 
 import CategoryCard from "./CategoryCard";
 
-import logoSthefy from "../assets/logo-sthefy.svg";
+import logoSthefy from "../assets/logo-sthefy.jpg";
 
 function Collections() {
 
