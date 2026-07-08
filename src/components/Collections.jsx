@@ -2,8 +2,7 @@ import "./Collections.css";
 
 import CategoryCard from "./CategoryCard";
 
-import charms from "../assets/jewels.jpg";
-import joyas from "../assets/jewels.jpg";
+import logoSthefy from "../assets/logo-sthefy.svg";
 
 function Collections() {
 
@@ -32,7 +31,8 @@ function Collections() {
 
                     button="Explorar"
 
-                    image={charms}
+                    image={logoSthefy}
+                
 
                 />
 
@@ -46,7 +46,7 @@ function Collections() {
 
                     button="Explorar"
 
-                    image={joyas}
+                    image={logoSthefy}
 
                 />
 
